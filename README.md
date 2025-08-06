@@ -37,6 +37,6 @@
 
 #
 ### Contact
-<p>🔗 Website: yannismadu.com</p>
-<p>✉️ Email: yannismadu777@gmail.com</p>
+<p>🔗 Website: <a href="https://www.yannismadu.com" target="_blank">yannismadu.com</a></p>
+<p>✉️ Email: <a href="mailto:yannismadu777@gmail.com" target="_blank">yannismadu777@gmail.com</a></p>
 
