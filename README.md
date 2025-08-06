@@ -27,8 +27,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
 
 
 ### 🎧 What I'm listening to
