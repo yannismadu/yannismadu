@@ -22,10 +22,7 @@
 <img align="left" alt="CSS" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="git" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="npm" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-<img align="left" alt="Bash" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-          
-          
+<img align="left" alt="Bash" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />     
 </br>
 </br>
 </br>
@@ -33,6 +30,9 @@
 
 ### 🎧 What I'm listening to
 [![Spotify](https://novatorem-edqo40efx-voltz7788.vercel.app/api/spotify)](https://open.spotify.com/user/yannis.madu.777)
+</br>
+</br>
+</br>
 </br>
 
 #
