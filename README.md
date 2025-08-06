@@ -2,7 +2,7 @@
 
 **`Full Stack Engineer`**
 
-<p>Hi and welcome to my Github! I'm a Full Stack Engineer, content creator and musician. If I'm not at my PC coding, I'm either at the gym or somewhere thinking about silly hypotheticals 🤔💭</p>
+<p>Hi and welcome to my Github! I'm a Full Stack Engineer, content creator and musician. If I'm not at my laptop coding, I'm either gaming, struggling to come up with music ideas in Ableton or somewhere thinking about silly hypotheticals 🤔💭</p>
 
 ---
 
